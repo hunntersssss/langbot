@@ -7,7 +7,7 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 
 # ВСТАВЬ СВОЙ ТОКЕН МЕЖДУ КАВЫЧКАМИ
-BOT_TOKEN = "8538385993:AAHsm8eodkpuRds9S89gWSu8Ek63mhTwZHg"
+BOT_TOKEN = ""
 
 logging.basicConfig(level=logging.INFO)
 
